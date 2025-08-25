@@ -16,19 +16,19 @@ I am a **junior software engineer** with strong problem-solving skills, fast lea
 ## 🛠 Technical Skills
 
 **Languages:**  
-`Assembly (10%)` | `C++ (30%)` | `JavaScript (40%)` | `XML (10%)` | `Python`
+`Assembly` | `C++ ` | `JavaScript ` | `Python` | `Java`| `MQL`| `Bash`
 
 **Frameworks:**  
-`Laravel` | `React` | `Express.js`
+`Node.js` | `React.js` | `Laravel`
 
 **Databases:**  
-`MySQL` | `MongoDB` | `PostgreSQL`
+`MySQL` | `MongoDB` 
 
 **Tools & DevOps:**  
-`Git` | `Docker` | `AWS` | `Jenkins`
+`Git` | `Github` | `Docker` | `Hostinger` 
 
 **Testing & APIs:**  
-`Unit Testing` | `REST API` | `GraphQL`
+`Unit Testing` | `REST API` 
 
 **Extra Skills:**  
 - ⌨️ Fast typing: 22 WPM  
