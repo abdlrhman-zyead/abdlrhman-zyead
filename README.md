@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdlrhman Zyead Saleh
 
-💻 **Junior Software Engineer** passionate about building robust, scalable applications and exploring cutting-edge technologies.  
+💻 **Junior AI Engineer & full stack web developer ** passionate about building robust, scalable web applications and exploring cutting-edge technologies.  
 📍 Cairo, Egypt  
 📧 **Email:** [abdlrhman.bot@gmail.com](mailto:abdlrhman.bot@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/abdlrhman-zyead-1a8aba348](https://www.linkedin.com/in/abdlrhman-zyead-1a8aba348/)  
@@ -58,7 +58,7 @@ I am a **junior software engineer** with strong problem-solving skills, fast lea
 
 ## 🎓 Education
 
-**BSc in Computer Science** — Cairo University  
+**MNU University Egypt CS & AI   
 
 ---
 
@@ -80,4 +80,4 @@ I am a **junior software engineer** with strong problem-solving skills, fast lea
 
 ---
 
-⭐ **"Code is like humor. When you have to explain it, it’s bad."**
+⭐ **"Continue to the best"**
