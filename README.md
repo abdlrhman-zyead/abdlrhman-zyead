@@ -7,15 +7,15 @@
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="profile views" />
   </a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel" /></a>
+  <a href="mailto:abdlrhman.bot@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/abdlrhman-zyead-1a8aba348/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="abdlrhman.vercel.app><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- Passionate about **software production**, **computer science**, and **systems thinking**.  
+- Passionate about  **Artificial Intelligent**, **Big Data Analysis**, **software production**, **computer science**, and **systems thinking**.  
 - Building with **MERN**, exploring **data**, and tinkering with **IoT/microcontrollers**.  
 - I love **problem solving**, **algorithms**, and turning ideas into clean, functional products.
 
@@ -70,15 +70,6 @@ Networking basics · IoT (Intermediate) · Microcontrollers (Raspberry Pi, Ardui
 
 ---
 
-<!-- Stats (GitHub Readme Stats) -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&cache_seconds=21600&v=1" />
-
-<!-- Streak -->
-<img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&date_format=j%20M%5B%20Y%5D&card_width=440&cache_seconds=21600&v=1" />
-
-<!-- Top Languages -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&cache_seconds=21600&v=1" />
-
 ---
 
 ## 🗂️ Featured Learning Boards
@@ -92,7 +83,7 @@ Networking basics · IoT (Intermediate) · Microcontrollers (Raspberry Pi, Ardui
 ## 🧠 Current Goals
 - Build 3 end-to-end **MERN** projects (incl. testing & CI)  
 - Implement 50+ **DSA** problems with clean patterns  
-- Deploy IoT → Cloud pipeline (device → API → DB → dashboard)
+- Deploy AI Models → Cloud pipeline (device → API → DB → dashboard)
 
 ---
 
