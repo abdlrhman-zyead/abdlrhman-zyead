@@ -1,58 +1,75 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=600&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abdelrhman+👋;AI+%7C+Data+Analysis+%7C+Software+Development;Always+learning+and+building+useful+things.">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2600&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdelrhman+%F0%9F%91%8B;AI+%7C+Data+Analysis+%7C+Computer+Science;Learning+Daily%2C+Building+Useful+Software+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Programming-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge" />
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
 ## 🌍 Domains I Work In
-| Domain | What I Do |
-|-------|------------|
-| **Artificial Intelligence** | Basic ML models, understanding ANN, CNN, NLP concepts |
-| **Data Analysis** | Cleaning, visualization, SQL queries, logical insights |
-| **Computer Science & Programming** | Algorithms, problem solving, writing structured software |
+| Domain | Description |
+|---|---|
+| 🤖 Artificial Intelligence | Understanding ANN / CNN basics · Machine Learning logic |
+| 📊 Data Analysis | Cleaning · Wrangling · SQL Insights · Visualization |
+| 💻 Computer Science | Algorithms · Problem Solving · Software Thinking |
 
 ---
 
-## 🛠️ Technologies & Tools I Use
+## 🛠️ Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,react,mongodb,mysql,sqlite,git,linux,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,express,react,mongodb,mysql,sqlite,git,linux,bash&perline=12" />
 </p>
 
-**AI & Data Stack:**  
-Python · Numpy · Pandas · Matplotlib · SQL · Data Wrangling  
-
-**Backend / Logic:**  
-Node.js · Express.js · API Design
-
-**Databases:**  
-MongoDB · MySQL · SQLite
-
-**CS Foundations:**  
-Data Structures · Algorithms · Problem Solving
+### AI & Data Toolkit
 
 ---
 
-## 🚀 Projects I Built
-| Project | Description | Link |
-|--------|-------------|------|
-| **Personal Portfolio** | My simple online presence & showcase | https://abdlrhman.vercel.pp |
-| **Dollar Code Platform** | A learning platform for coding & challenges | https://dollar-code-zeta.vercel.app/ |
+## 🚀 Projects
+| Name | Description | Live Demo |
+|---|---|---|
+| **Portfolio Website** | Represents me online and showcases my work | https://abdlrhman.vercel.pp |
+| **Dollar Code Platform** | Coding learning playground & problem solving platform | https://dollar-code-zeta.vercel.app/ |
+
+<p align="center">
+  <a href="https://abdlrhman.vercel.pp">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dollar-code-zeta.vercel.app/">
+    <img src="https://img.shields.io/badge/Open-Dollar_Code-1f6feb?style=for-the-badge&logo=javascript" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Current Focus
-- Strengthening **AI understanding** (ANN / CNN / ML pipelines).
-- Solving **DSA problems** with cleaner logic.
-- Building **useful tools** that solve real problems.
+## 🎨 Visual Profile Board
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&no-frame=true&no-bg=true&theme=flat&column=7" />
+</p>
+
+---
+
+## 📈 Learning Roadmap
+
+
+---
+
+## 🧭 Philosophy
+> “Small consistent steps > random big jumps.”
+
+- Clarity > Complexity  
+- Understanding > Memorizing  
+- Building > Talking  
 
 ---
 
 ## 📫 Contact
-Feel free to reach out — collaborations & ideas are always welcome.
-
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<p align="center"><sub>“Learning is a journey — not a moment.”</sub></p>
+<p align="center"><sub>✨ Keep learning. Keep improving. Keep shipping. ✨</sub></p>
