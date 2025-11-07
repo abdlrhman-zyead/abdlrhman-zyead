@@ -21,7 +21,7 @@
 
 ---
 
-## 📚 Learning Roadmap (Zero: Software Production & CS)
+## 📚 Learning 
 
 ### 0.1 — MERN Stack (Web Development)
 **Front-end**: HTML5 · CSS3 · JavaScript (ES6)  
@@ -51,7 +51,7 @@ Networking basics · IoT (Intermediate) · Microcontrollers (Raspberry Pi, Ardui
 
 ---
 
-## 🧰 Tech Stack (Visual)
+## 🧰 Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,sqlite,cpp,java,python,r,git,linux,bash&perline=9" />
 </p>
@@ -70,14 +70,14 @@ Networking basics · IoT (Intermediate) · Microcontrollers (Raspberry Pi, Ardui
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent" />
-</p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
-</p>
+<!-- Stats (GitHub Readme Stats) -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&cache_seconds=21600&v=1" />
+
+<!-- Streak -->
+<img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&date_format=j%20M%5B%20Y%5D&card_width=440&cache_seconds=21600&v=1" />
+
+<!-- Top Languages -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&cache_seconds=21600&v=1" />
 
 ---
 
