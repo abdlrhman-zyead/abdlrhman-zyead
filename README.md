@@ -1,41 +1,45 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2600&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdelrhman+%F0%9F%91%8B;AI+%7C+Data+Analysis+%7C+Computer+Science;Learning+Daily%2C+Building+Useful+Software+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2600&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdelrhman+%F0%9F%91%8B;AI+%7C+Data+Analysis+%7C+Business+Development;Learning+Everyday+%26+Building+Real+Software+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Programming-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Product%20Design-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge" />
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-## 🌍 Domains I Work In
-| Domain | Description |
+## 🌍 Domains & Work Focus
+
+| Domain | What I Actually Do |
 |---|---|
-| 🤖 Artificial Intelligence | Understanding ANN / CNN basics · Machine Learning logic |
-| 📊 Data Analysis | Cleaning · Wrangling · SQL Insights · Visualization |
-| 💻 Computer Science | Algorithms · Problem Solving · Software Thinking |
+| 🤖 **AI & ML Fundamentals** | ANN / CNN basics · Model logic · Training intuition |
+| 📊 **Data Analysis** | Cleaning · Wrangling · SQL Queries · Visualization & Insights |
+| 🧠 **Business & Product Development** | Idea → Research → Prototype → Launch Cycle |
+| 💻 **Computer Science Thinking** | Algorithms · System Logic · Problem Solving |
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,express,react,mongodb,mysql,sqlite,git,linux,bash&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,nodejs,express,react,mongodb,mysql,sqlite,git,linux,bash&perline=8" />
 </p>
 
-### AI & Data Toolkit
+### AI / Data Toolkit
 
 ---
 
-## 🚀 Projects
-| Name | Description | Live Demo |
+## 🚀 Current Real Projects
+
+| Project | Purpose | Live Link |
 |---|---|---|
-| **Portfolio Website** | Represents me online and showcases my work | https://abdlrhman.vercel.pp |
-| **Dollar Code Platform** | Coding learning playground & problem solving platform | https://dollar-code-zeta.vercel.app/ |
+| **Personal Portfolio** | Represents me clearly online | https://abdlrhman.vercel.app |
+| **Dollar Code Platform** | Coding + Logic learning playground | https://dollar-code-zeta.vercel.app/ |
 
 <p align="center">
-  <a href="https://abdlrhman.vercel.pp">
+  <a href="https://abdlrhman.vercel.app">
     <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel" />
   </a>
   &nbsp;&nbsp;
@@ -46,24 +50,32 @@
 
 ---
 
-## 🎨 Visual Profile Board
+## 🎨 Visual Achievements Board
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&no-frame=true&no-bg=true&theme=flat&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10&column=6" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Learning Roadmap
-
+## 📈 Current Learning Roadmap
+- Strengthen **ML core intuition** before diving into deep architectures  
+- Build **data storytelling** skills using real datasets  
+- Convert **prototypes** into **fully useful small tools**
 
 ---
 
-## 🧭 Philosophy
-> “Small consistent steps > random big jumps.”
+## 🧭 Personal Philosophy
+> “Small daily progress compounds faster than big temporary effort.”
 
-- Clarity > Complexity  
-- Understanding > Memorizing  
-- Building > Talking  
+- Understand deeply instead of memorizing
+- Build more than you talk
+- Simplicity wins
 
 ---
 
