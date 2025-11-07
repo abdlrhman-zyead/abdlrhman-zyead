@@ -1,83 +1,104 @@
-# 👋 Hi, I'm Abdlrhman Zyead Saleh
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3200&pause=900&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Your+Name+%F0%9F%91%8B;Software+Production+%26+Computer+Science+Enthusiast;MERN+Stack+%7C+Data+%7C+IoT+%7C+DSA+%7C+Problem+Solving" alt="Typing intro" />
+</p>
 
-💻 **Junior AI Engineer & full stack web developer ** passionate about building robust, scalable web applications and exploring cutting-edge technologies.  
-📍 Cairo, Egypt  
-📧 **Email:** [abdlrhman.bot@gmail.com](mailto:abdlrhman.bot@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/abdlrhman-zyead-1a8aba348](https://www.linkedin.com/in/abdlrhman-zyead-1a8aba348/)  
-🐙 **GitHub:** [github.com/boda-os](https://github.com/boda-os)  
-
----
-
-## 🚀 Summary
-I am a **junior software engineer** with strong problem-solving skills, fast learning ability, and a passion for automation, AI-assisted development, and innovative solutions.
-
----
-
-## 🛠 Technical Skills
-
-**Languages:**  
-`Assembly` | `C++ ` | `JavaScript ` | `Python` | `Java`| `MQL`| `Bash`
-
-**Frameworks:**  
-`Node.js` | `React.js` | `Laravel`
-
-**Databases:**  
-`MySQL` | `MongoDB` 
-
-**Tools & DevOps:**  
-`Git` | `Github` | `Docker` | `Hostinger` 
-
-**Testing & APIs:**  
-`Unit Testing` | `REST API` 
-
-**Extra Skills:**  
-- ⌨️ Fast typing: 22 WPM  
-- 📖 Fast reading  
-- 🗣 Summary speaking  
-- 🎯 Vibe coding: `Cursor IDE (45%)` + `Blackbox AI` + `ChatGPT-5` + `DeepSeek` + automation workflows
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="profile views" />
+  </a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel" /></a>
+</p>
 
 ---
 
-## 💼 Work Experience
-
-**Software Engineer — XYZ Tech**  
-- Built a scalable e-commerce platform serving 50k+ monthly users.  
-- Integrated payment gateways and improved checkout performance by 30%.  
-- Automated CI/CD pipeline using Jenkins and Docker.  
+## 👨‍💻 About Me
+- Passionate about **software production**, **computer science**, and **systems thinking**.  
+- Building with **MERN**, exploring **data**, and tinkering with **IoT/microcontrollers**.  
+- I love **problem solving**, **algorithms**, and turning ideas into clean, functional products.
 
 ---
 
-## 📂 Projects
+## 📚 Learning Roadmap (Zero: Software Production & CS)
 
-**SmartClinic – Laravel + React**  
-- Role-based access system for doctors, patients, and admins.  
-- Real-time notifications & appointment management.  
-- Secure authentication with JWT.  
+### 0.1 — MERN Stack (Web Development)
+**Front-end**: HTML5 · CSS3 · JavaScript (ES6)  
+**Back-end**: Node.js · Express.js
 
----
+### 0.2 — Programming Languages
+C++ · Java · SQL · **MQL** · Python · R
 
-## 🎓 Education
+### 0.3 — Database Systems
+SQLite · MySQL · MongoDB · Cassandra
 
-**MNU University Egypt CS & AI   
+### 0.4 — Frameworks & Big Data
+Django · Flask · Hadoop · Spark
 
----
+### 0.5 — Hosting Platforms
+Hostinger · Vercel
 
-## 📜 Certifications
-- **CS50x – Harvard University** (edX)  
-- **Full-Stack Web Development** (Coursera)  
+### 0.6 — Linux Administration
+CLI (Command Line Interface) · Bash Scripting
 
----
+### 0.7 — CCNA Basics & IoT
+Networking basics · IoT (Intermediate) · Microcontrollers (Raspberry Pi, Arduino, ESP8266/ESP32)
 
-## 🏆 Achievements
-- **Winner – Google HashCode 2024**  
-  Ranked 1st in Local Round.
+### 0.8 — Data Structures & Algorithms
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boda-os&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boda-os&layout=compact&theme=tokyonight)
+### 0.9 — Problem Solving & Logic
 
 ---
 
-⭐ **"Continue to the best"**
+## 🧰 Tech Stack (Visual)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,sqlite,cpp,java,python,r,git,linux,bash&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,regex,postman,vercel&perline=8" />
+</p>
+
+---
+
+## 🚀 Highlighted Focus
+- 🧩 **DSA & Problem Solving**: patterns, complexity, clean solutions  
+- 🌐 **MERN**: production-grade REST APIs & modular front-ends  
+- 🗃 **Data**: modeling, queries, and pipelines  
+- 🔌 **IoT**: sensor-to-cloud prototypes, MQTT basics, microcontroller workflows
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
+  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent" />
+</p>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🗂️ Featured Learning Boards
+- **MERN Practice** — CRUD, Auth, Role-based Access, Error handling  
+- **Algorithms Kit** — Sorting, Searching, DP, Graphs, Greedy  
+- **IoT Playground** — Raspberry Pi + Arduino + ESP8266/ESP32 demos  
+- **Data & DB** — SQL joins, indexing, normalization, aggregation
+
+---
+
+## 🧠 Current Goals
+- Build 3 end-to-end **MERN** projects (incl. testing & CI)  
+- Implement 50+ **DSA** problems with clean patterns  
+- Deploy IoT → Cloud pipeline (device → API → DB → dashboard)
+
+---
+
+## 📫 Reach Me
+**Email:** you@example.com • **LinkedIn:** /in/YOUR_LINKEDIN • **Portfolio:** YOUR_PORTFOLIO_URL
+
+<p align="center">
+  <sub>“Code with clarity. Learn with intention. Ship with pride.”</sub>
+</p>
