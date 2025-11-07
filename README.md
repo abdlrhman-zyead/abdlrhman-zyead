@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Product%20Design-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge" />
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:abdlrhman.bot"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
@@ -50,24 +50,6 @@
 
 ---
 
-## 🎨 Visual Achievements Board
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10&column=6" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Current Learning Roadmap
-- Strengthen **ML core intuition** before diving into deep architectures  
-- Build **data storytelling** skills using real datasets  
-- Convert **prototypes** into **fully useful small tools**
-
 ---
 
 ## 🧭 Personal Philosophy
@@ -81,7 +63,7 @@
 
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:abdlrhman.bot@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <p align="center"><sub>✨ Keep learning. Keep improving. Keep shipping. ✨</sub></p>
