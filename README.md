@@ -78,6 +78,7 @@ Networking basics · IoT (Intermediate) · Microcontrollers (Raspberry Pi, Ardui
 - **IoT Playground** — Raspberry Pi + Arduino + ESP8266/ESP32 demos  
 - **Data & DB** — SQL joins, indexing, normalization, aggregation
 
+
 ---
 
 ## 🧠 Current Goals
