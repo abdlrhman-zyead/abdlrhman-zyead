@@ -1,96 +1,58 @@
-<!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3200&pause=900&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Your+Name+%F0%9F%91%8B;Software+Production+%26+Computer+Science+Enthusiast;MERN+Stack+%7C+Data+%7C+IoT+%7C+DSA+%7C+Problem+Solving" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="mailto:abdlrhman.bot@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/abdlrhman-zyead-1a8aba348/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="abdlrhman.vercel.app><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=600&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abdelrhman+👋;AI+%7C+Data+Analysis+%7C+Software+Development;Always+learning+and+building+useful+things.">
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- Passionate about  **Artificial Intelligent**, **Big Data Analysis**, **software production**, **computer science**, and **systems thinking**.  
-- Building with **MERN**, exploring **data**, and tinkering with **IoT/microcontrollers**.  
-- I love **problem solving**, **algorithms**, and turning ideas into clean, functional products.
+## 🌍 Domains I Work In
+| Domain | What I Do |
+|-------|------------|
+| **Artificial Intelligence** | Basic ML models, understanding ANN, CNN, NLP concepts |
+| **Data Analysis** | Cleaning, visualization, SQL queries, logical insights |
+| **Computer Science & Programming** | Algorithms, problem solving, writing structured software |
 
 ---
 
-## 📚 Learning 
-
-### 0.1 — MERN Stack (Web Development)
-**Front-end**: HTML5 · CSS3 · JavaScript (ES6)  
-**Back-end**: Node.js · Express.js
-
-### 0.2 — Programming Languages
-C++ · Java · SQL · **MQL** · Python · R
-
-### 0.3 — Database Systems
-SQLite · MySQL · MongoDB · Cassandra
-
-### 0.4 — Frameworks & Big Data
-Django · Flask · Hadoop · Spark
-
-### 0.5 — Hosting Platforms
-Hostinger · Vercel
-
-### 0.6 — Linux Administration
-CLI (Command Line Interface) · Bash Scripting
-
-### 0.7 — CCNA Basics & IoT
-Networking basics · IoT (Intermediate) · Microcontrollers (Raspberry Pi, Arduino, ESP8266/ESP32)
-
-### 0.8 — Data Structures & Algorithms
-
-### 0.9 — Problem Solving & Logic
-
----
-
-## 🧰 Tech Stack 
+## 🛠️ Technologies & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,sqlite,cpp,java,python,r,git,linux,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,react,mongodb,mysql,sqlite,git,linux,bash&perline=9" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,regex,postman,vercel&perline=8" />
-</p>
+**AI & Data Stack:**  
+Python · Numpy · Pandas · Matplotlib · SQL · Data Wrangling  
+
+**Backend / Logic:**  
+Node.js · Express.js · API Design
+
+**Databases:**  
+MongoDB · MySQL · SQLite
+
+**CS Foundations:**  
+Data Structures · Algorithms · Problem Solving
 
 ---
 
-## 🚀 Highlighted Focus
-- 🧩 **DSA & Problem Solving**: patterns, complexity, clean solutions  
-- 🌐 **MERN**: production-grade REST APIs & modular front-ends  
-- 🗃 **Data**: modeling, queries, and pipelines  
-- 🔌 **IoT**: sensor-to-cloud prototypes, MQTT basics, microcontroller workflows
+## 🚀 Projects I Built
+| Project | Description | Link |
+|--------|-------------|------|
+| **Personal Portfolio** | My simple online presence & showcase | https://abdlrhman.vercel.pp |
+| **Dollar Code Platform** | A learning platform for coding & challenges | https://dollar-code-zeta.vercel.app/ |
 
 ---
 
----
-
-## 🗂️ Featured Learning Boards
-- **MERN Practice** — CRUD, Auth, Role-based Access, Error handling  
-- **Algorithms Kit** — Sorting, Searching, DP, Graphs, Greedy  
-- **IoT Playground** — Raspberry Pi + Arduino + ESP8266/ESP32 demos  
-- **Data & DB** — SQL joins, indexing, normalization, aggregation
-
+## 🎯 Current Focus
+- Strengthening **AI understanding** (ANN / CNN / ML pipelines).
+- Solving **DSA problems** with cleaner logic.
+- Building **useful tools** that solve real problems.
 
 ---
 
-## 🧠 Current Goals
-- Build 3 end-to-end **MERN** projects (incl. testing & CI)  
-- Implement 50+ **DSA** problems with clean patterns  
-- Deploy AI Models → Cloud pipeline (device → API → DB → dashboard)
-
----
-
-## 📫 Reach Me
-**Email:** you@example.com • **LinkedIn:** /in/YOUR_LINKEDIN • **Portfolio:** YOUR_PORTFOLIO_URL
+## 📫 Contact
+Feel free to reach out — collaborations & ideas are always welcome.
 
 <p align="center">
-  <sub>“Code with clarity. Learn with intention. Ship with pride.”</sub>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
+
+<p align="center"><sub>“Learning is a journey — not a moment.”</sub></p>
