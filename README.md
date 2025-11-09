@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI / Data Toolkit
+### 🧠 AI / Data Toolkit (wise -> most not all)
 
 <!-- Core Languages -->
 <p align="center">
