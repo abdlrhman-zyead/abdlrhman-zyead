@@ -1,32 +1,55 @@
 ---
 <div align="center">
 
-# 🚀 AI & Data Science Expertise
-### *Where Mathematical Rigor Meets Practical Innovation*
+# 🚀 AI & Data Science Expertise Portfolio
+### *Bridging Mathematical Theory with Real-World Innovation*
+
+![AI Banner](https://via.placeholder.com/800x200/0D1117/FFFFFF?text=AI+%26+Data+Science+Expertise)
 
 </div>
 
 ---
 
-## 🧠 Core Competencies
+## 🎯 Core Competencies Overview
 
-### 🤖 Artificial Intelligence | Primary Specialization
 <div align="center">
-*"Engineering intelligence through mathematical precision and computational artistry"*
+
+| **Artificial Intelligence** 🤖 | **Data Science** 📊 | **Engineering** ⚡ |
+|-------------------------------|---------------------|-------------------|
+| Deep Learning | Data Analytics | Software Development |
+| Neural Networks | Machine Learning | Big Data Systems |
+| Computer Vision | Statistical Modeling | Cloud Infrastructure |
+
 </div>
 
-<br>
+---
 
-**🧩 Deep Learning & Neural Architectures**
-- **Artificial Neural Networks (ANN)** • Advanced architectures & optimization
-- **Deep Learning Systems** • Multi-layer perceptrons to complex networks
-- **Model Training & Validation** • Hyperparameter tuning & performance metrics
+## 🧠 Artificial Intelligence | Primary Specialization
 
-**📊 Mathematical Foundation**
+<div align="center">
+  
+**`Machine Intelligence · Neural Architectures · Mathematical Foundations`**
+
+</div>
+
+### 🧩 Deep Learning & Neural Networks
+<div align="center">
+
+| **Technology** | **Proficiency** | **Use Cases** |
+|----------------|-----------------|---------------|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Advanced | Production Models |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | Advanced | Research & Development |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | Expert | Rapid Prototyping |
+| ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white) | Intermediate | Model Interoperability |
+
+</div>
+
+### 📐 Mathematical Foundation
 ```python
-# Core Mathematical Pillars
-mathematics_foundation = {
-    'Calculus': ['Gradient Descent', 'Optimization', 'Backpropagation'],
-    'Linear_Algebra': ['Tensors', 'Matrix Operations', 'Eigen Decomposition'],
-    'Statistics_Probability': ['Bayesian Inference', 'Hypothesis Testing', 'Distributions']
+# 🧮 Mathematical Core Competencies
+math_skills = {
+    'Calculus': ['Gradient_Descent', 'Backpropagation', 'Optimization'],
+    'Linear_Algebra': ['Tensor_Operations', 'Matrix_Decomposition', 'Eigen_Analysis'],
+    'Probability': ['Bayesian_Inference', 'Stochastic_Processes', 'Statistical_Testing'],
+    'Statistics': ['Hypothesis_Testing', 'Distributions', 'Maximum_Likelihood']
 }
