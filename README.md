@@ -45,7 +45,7 @@
 </div>
 
 <br>
-
+<!-- under work -->
 <!-- Professional image with alt text - kept your original -->
 <img width="394" height="250" alt="image" src="https://github.com/user-attachments/assets/34badf28-48dc-4478-b6c5-5f95c413a291" />
 
@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?logo=twitter&style=for-the-badge" alt="YOUR_TWITTER" />
   </a> 
 </p>
+<!-- under work -->
 
 ## 🚀 Current Focus
 
