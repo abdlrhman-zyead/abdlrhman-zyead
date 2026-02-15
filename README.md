@@ -16,13 +16,13 @@
     <a href="https://github.com/yourusername">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://your-portfolio.com">
+    <a href="[https://your-portfolio.com](https://abdlrhman.vercel.app/)">
       <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:you@email.com">
+    <a href="mailto:abdlrhman.bot@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.kaggle.com/yourusername">
+    <a href="[https://www.kaggle.com/yourusername](https://www.kaggle.com/abdlrhmanzyead)">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
   </p>
