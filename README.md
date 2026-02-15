@@ -47,7 +47,12 @@
 <br>
 
 <!-- Professional image with alt text - kept your original -->
-<img align="right" alt="Data Science" width="400" src="https://www.onebridge.tech/post/what-is-a-data-analyst-and-should-i-hire-one">
+<img 
+    src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" 
+    alt="Data Science" 
+    width="400" 
+    style="float: right; margin-left: 20px;"
+>
 
 <!-- Professional metrics with data science context - enhanced your original -->
 <p align="left"> 
