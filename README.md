@@ -1,85 +1,123 @@
-<!-- 
-  Professional Data Scientist Profile 
-  Feel free to paste this into your GitHub README.md or personal site
--->
-
 <div align="center">
 
-  <h1>Hi, I'm [Your Name] 👋</h1>
-  <h3>Data Scientist turning uncertainty into 📈 actionable insights</h3>
+  # Hi, I'm Abdelrahman 👋
+  ### Data Scientist | Machine Learning Engineer
 
-  <!-- Shields / badges (you can generate more at https://shields.io) -->
+  <!--- Optional Typing Animation --->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Explanatory+ML+%7C+Causal+Inference;LLM+Fine-tuning+%7C+MLOps;From+chaos+to+clarity+with+data)](https://git.io/typing-svg)
+
+  <!-- Professional Badges -->
   <p>
-    <a href="https://www.linkedin.com/in/your-profile/">
+    <a href="https://www.linkedin.com/in/your-linkedin-username/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/yourusername">
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/abdlrhman">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://your-portfolio.com">
-      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:you@email.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://kaggle.com/YOUR_KAGGLE">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
   </p>
 
-  <!-- Typing SVG (optional - looks dynamic) - generate at https://readme-typing-svg.demolab.com/ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Explanatory+ML+%7C+Causal+Inference+%7C+Experimentation;LLM+Fine-tuning+%7C+MLOps+%7C+Generative+AI;From+chaos+to+clarity+with+data" alt="Typing SVG" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=abdlrhman&label=Profile%20Views&color=0e75b6&style=flat" alt="abdlrhman" />
 
 </div>
 
-<br>
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://yourwebsite.com) <!-- change link if you have a personal site -->
+---
 
-<h1 align="center">Hi 👋, I'm abdlrhman</h1>
-<h3 align="center">A passionate Data Scientist & Machine Learning Engineer from Egypt</h3>
+## 👨‍💻 About Me
 
-<img align="right" alt="Data Science" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <!-- you can replace this gif with a more DS-related one if you want -->
+I'm a passionate Data Scientist based in Egypt with a strong focus on building end-to-end machine learning solutions. I specialize in turning complex data into actionable business insights and scalable AI products.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdlrhman&label=Profile%20views&color=0e75b6&style=flat" alt="abdlrhman" /> </p>
+- 🔭 **Currently working on:** Predictive Maintenance systems for industrial IoT
+- 🌱 **Learning:** Advanced MLOps, LLM Fine-tuning, and Generative AI architectures
+- 💡 **Ask me about:** Python, Machine Learning, Deep Learning, Statistical Analysis, and SQL
+- ⚡ **Fun fact:** I debug my code with coffee. Lots of coffee.
 
-<p align="left"> <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?logo=twitter&style=for-the-badge" alt="YOUR_TWITTER" /></a> </p> <!-- update your twitter handle -->
+---
 
-- 🔭 I’m currently working on **Predictive Maintenance / Customer Churn / Computer Vision project** (or name your current main project)
-- 🌱 I’m currently learning **MLOps, LLMs & Generative AI, Advanced Time Series**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Analysis, SQL**
-- 📫 How to reach me **your.email@example.com**
-- ⚡ Fun fact **I turn coffee into predictive models**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://kaggle.com/YOUR_KAGGLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="YOUR_KAGGLE" height="30" width="40" /></a> <!-- add if you have Kaggle -->
-<a href="https://instagram.com/your_instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram" height="30" width="40" /></a>
-</p>
+**Core Languages & Data Processing**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_logo.svg" alt="matplotlib" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <!-- add cloud if you use -->
-</p>
+**Machine Learning & Deep Learning**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-7836C7?style=flat&logo=xgboost&logoColor=white)
 
-<!-- You can keep or remove these stats - tokyonight theme looks nice -->
-[![abdlrhman's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abdlrhman&theme=xcode)](https://github.com/abdlrhman)
+**Data Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdlrhman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abdlrhman" /></p>
+**Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdlrhman&show_icons=true&locale=en&theme=tokyonight" alt="abdlrhman" /></p>
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdlrhman&theme=tokyonight" alt="abdlrhman" /></p>
+---
+
+## 📌 Featured Projects
+
+### [Project Name 1: Predictive Maintenance System](link-to-repo)
+- Built an end-to-end pipeline to predict equipment failure 48 hours in advance using sensor data
+- Achieved 92% recall using XGBoost with time-series feature engineering
+- Deployed model via FastAPI with Docker containerization
+
+### [Project Name 2: Customer Churn Prediction](link-to-repo)
+- Analyzed customer behavior data for a telecom company to identify churn risk factors
+- Implemented Random Forest and Logistic Regression models with SHAP analysis for interpretability
+- Delivered an interactive dashboard using Plotly Dash for business stakeholders
+
+### [Project Name 3: Image Classification with CNN](link-to-repo)
+- Developed a custom CNN architecture using PyTorch to classify medical images
+- Achieved 88% accuracy after implementing data augmentation and transfer learning
+- Created a comprehensive model card documenting performance metrics and limitations
+
+*(Check my repositories for more projects!)*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdlrhman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlrhman&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdlrhman&theme=algolia" alt="abdlrhman" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on data science projects or discussing new opportunities. Feel free to reach out!
+
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
+- 🏆 **Kaggle:** [kaggle.com/YOUR_KAGGLE](https://kaggle.com/YOUR_KAGGLE)
+
+---
+
+<div align="center">
+  <i>✨ "Turning data into decisions, one model at a time." ✨</i>
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
