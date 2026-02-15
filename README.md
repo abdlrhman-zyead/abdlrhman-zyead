@@ -1,4 +1,5 @@
 <!-- 
+15 - 2 - 2026
   Professional Data Scientist Profile 
   Version 2.0 - Enhanced with modern data science aesthetics
 -->
@@ -6,26 +7,31 @@
 <div align="center">
 
   <h1>Hi, I'm Abdlrhman 👋</h1>
-  <h3>Data Scientist turning uncertainty into 📈 actionable insights</h3>
+  <h3>Data is the new oil, but insights are the new gold</h3>
 
   <!-- Professional badges with data science focus -->
   <p>
-    <a href="https://www.linkedin.com/in/your-profile/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/yourusername">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="[https://your-portfolio.com](https://abdlrhman.vercel.app/)">
-      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:abdlrhman.bot@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="[https://www.kaggle.com/yourusername](https://www.kaggle.com/abdlrhmanzyead)">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://abdlrhman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="mailto:abdlrhman.bot@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://www.kaggle.com/abdlrhmanzyead" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+
 
   <!-- Professional typing animation for data scientist -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Explanatory+ML+%7C+Causal+Inference;LLM+Fine-tuning+%7C+MLOps+%7C+GenAI;From+chaos+to+clarity+with+data;Predictive+Modeling+%7C+Computer+Vision" alt="Typing SVG" />
