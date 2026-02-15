@@ -149,7 +149,10 @@
 
 ## 📌 Pinned Projects
 
-<!-- You can add your best projects here with descriptions -->
+<!-- You can add your best projects here with descriptions 
+top 3 projects include new creative things solve real life problems 
+
+-->
 ### 🔥 Featured Work
 - **[Project Name 1]** - Brief description of your awesome ML project
 - **[Project Name 2]** - Brief description of your data analysis project
