@@ -10,27 +10,28 @@
   <h3>Data is the new oil, but insights are the new gold</h3>
 
   <!-- Professional badges with data science focus -->
- <p>
-  <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/abdlrhman-zyead-1a8aba348/)" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdlrhman-zyead-1a8aba348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/abdlrhman-zyead" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://abdlrhman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://huggingface.co/Abdlrhman123" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  </a>
+
+  <a href="https://dev.to/abdlrhman_abdlrahim" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
 
   <a href="mailto:abdlrhman.bot@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <a href="https://www.kaggle.com/abdlrhmanzyead" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
 </p>
+
 
 
   <!-- Professional typing animation for data scientist -->
