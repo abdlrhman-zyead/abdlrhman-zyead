@@ -47,13 +47,7 @@
 <br>
 
 <!-- Professional image with alt text - kept your original -->
-<img 
-    [src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif
-) 
-    alt="Data Science" 
-    width="400" 
-    style="float: right; margin-left: 20px;"
->
+<img width="394" height="250" alt="image" src="https://github.com/user-attachments/assets/34badf28-48dc-4478-b6c5-5f95c413a291" />
 
 <!-- Professional metrics with data science context - enhanced your original -->
 <p align="left"> 
