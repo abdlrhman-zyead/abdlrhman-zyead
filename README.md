@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <h1>Hi, I'm [Your Name] 👋</h1>
+  <h1>Hi, I'm Abdlrhman 👋</h1>
   <h3>Data Scientist turning uncertainty into 📈 actionable insights</h3>
 
   <!-- Professional badges with data science focus -->
@@ -41,10 +41,6 @@
 
 <!-- Professional header banner - kept your original with enhancement -->
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://yourwebsite.com)
-
-<!-- Main introduction - preserved your original -->
-<h1 align="center">Hi 👋, I'm abdlrhman</h1>
-<h3 align="center">A passionate Data Scientist & Machine Learning Engineer from Egypt</h3>
 
 <!-- Professional image with alt text - kept your original -->
 <img align="right" alt="Data Science" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
