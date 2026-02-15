@@ -39,7 +39,7 @@
 
   <!-- Data science quote for professional touch -->
   <p>
-    <i>"The goal is to turn data into information, and information into insight."</i> — Carly Fiorina
+  <i>"Transforming data into insight, and insight into impact."</i>
   </p>
 
 </div>
