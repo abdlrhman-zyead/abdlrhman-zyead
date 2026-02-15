@@ -64,15 +64,24 @@
 </p>
 <!-- under work -->
 
-## 🚀 Current Focus
+## 📊 GitHub Analytics
 
-- 🔭 I’m currently working on **Predictive Maintenance / Customer Churn / Computer Vision project**
-- 🌱 I’m currently learning **MLOps, LLMs & Generative AI, Advanced Time Series**
-- 👯 I’m looking to collaborate on **Open Source Data Science Projects**
-- 🤔 I’m looking for help with **Scaling ML Models in Production**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Analysis, SQL**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I turn coffee into predictive models and data into stories**
+<!-- Activity Graph - kept your original with enhancement -->
+[![abdlrhman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdlrhman&theme=github-compact&hide_border=true&area=true)](https://github.com/abdlrhman)
+
+<!-- Stats cards - kept your original with professional layout -->
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdlrhman&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="abdlrhman" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abdlrhman&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="abdlrhman" width="48%" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdlrhman&theme=tokyonight&hide_border=true" alt="abdlrhman" width="50%" />
+  </p>
+</div>
+
+
 
 ## 🛠️ Technical Expertise
 
@@ -146,22 +155,8 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
 </p>
 
-## 📊 GitHub Analytics
 
-<!-- Activity Graph - kept your original with enhancement -->
-[![abdlrhman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdlrhman&theme=github-compact&hide_border=true&area=true)](https://github.com/abdlrhman)
 
-<!-- Stats cards - kept your original with professional layout -->
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdlrhman&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="abdlrhman" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdlrhman&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="abdlrhman" width="48%" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdlrhman&theme=tokyonight&hide_border=true" alt="abdlrhman" width="50%" />
-  </p>
-</div>
 
 ## 🏆 GitHub Achievements
 
