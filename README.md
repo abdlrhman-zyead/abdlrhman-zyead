@@ -45,24 +45,7 @@
 </div>
 
 <br>
-<!-- under work -->
-<!-- Professional image with alt text - kept your original -->
-<img width="394" height="250" alt="image" src="https://github.com/user-attachments/assets/34badf28-48dc-4478-b6c5-5f95c413a291" />
 
-<!-- Professional metrics with data science context - enhanced your original -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abdlrhman&label=Profile%20Views&color=0e75b6&style=flat" alt="abdlrhman" />
-  <img src="https://img.shields.io/github/followers/abdlrhman?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/abdlrhman?label=Stars&style=social" alt="GitHub Stars" />
-</p>
-
-<!-- Social links - kept your original with additions -->
-<p align="left"> 
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?logo=twitter&style=for-the-badge" alt="YOUR_TWITTER" />
-  </a> 
-</p>
-<!-- under work -->
 
 ## 📊 GitHub Analytics
 
