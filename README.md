@@ -27,8 +27,8 @@
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
 
-  <a href="mailto:abdlrhman.bot@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+ <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/> 
   </a>
 </p>
 
