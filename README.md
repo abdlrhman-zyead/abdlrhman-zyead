@@ -48,7 +48,8 @@
 
 <!-- Professional image with alt text - kept your original -->
 <img 
-    src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" 
+    [src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif
+) 
     alt="Data Science" 
     width="400" 
     style="float: right; margin-left: 20px;"
