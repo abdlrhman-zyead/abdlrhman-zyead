@@ -1,191 +1,234 @@
-<!-- 
-15 - 2 - 2026
-  Professional Data Scientist Profile 
-  Version 2.0 - Enhanced with modern data science aesthetics
--->
-
 <div align="center">
-
-  <h1>Hi, I'm Abdlrhman 👋</h1>
-  <h3>Data is the new oil, but insights are the new gold</h3>
-
-  <!-- Professional badges with data science focus -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdlrhman-zyead-1a8aba348/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/abdlrhman-zyead" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://huggingface.co/Abdlrhman123" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  </a>
-
-  <a href="https://dev.to/abdlrhman_abdlrahim" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-
- <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/> 
-  </a>
-</p>
-
-
-
-  <!-- Professional typing animation for data scientist -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Explanatory+ML+%7C+Causal+Inference;LLM+Fine-tuning+%7C+MLOps+%7C+GenAI;From+chaos+to+clarity+with+data;Predictive+Modeling+%7C+Computer+Vision" alt="Typing SVG" />
-
-  <!-- Data science quote for professional touch -->
-  <p>
-  <i>"Transforming data into insight, and insight into impact."</i>
-  </p>
-
+Data Analyst | Turning Raw Data Into Business Decisions
+I help companies understand what's happening, why it's happening, and what to do next.
 </div>
-
 <br>
-
-
-## 📊 GitHub Analytics
-
-<!-- Activity Graph - kept your original with enhancement -->
-[![abdlrhman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdlrhman&theme=github-compact&hide_border=true&area=true)](https://github.com/abdlrhman)
-
-<!-- Stats cards - kept your original with professional layout -->
+Three to five years ago, most of the decisions in the businesses I've worked with were made on instinct. Today, they're made on evidence — because someone took the time to clean the data, ask the right question, and build something people could actually trust.
+That's the work I do.
+I turn messy, disconnected data into dashboards, reports, and analysis that executives use to make real decisions — about revenue, retention, cost, and growth.
+My mission: make data the default way decisions get made, not the exception.
+My value: I don't just report numbers. I explain what they mean, what's driving them, and what to do about it.
+<br>
+About Me
+What I do
+I analyze business data — sales, marketing, finance, operations, customers — and turn it into dashboards and reports leadership actually uses.
+Problems I solve
+Leadership can't see what's happening in the business in real time
+Data lives in five different systems and nobody trusts any of it
+Reports take days to build and are outdated the moment they're sent
+Nobody knows why a metric moved, only that it did
+Industries I work with
+E-commerce · SaaS · Retail · Finance · Healthcare · Marketing · Human Resources · Logistics
+Why data matters
+Every business already has the data it needs to grow. Most of it just isn't clean, connected, or visible yet. That gap is where I work.
+<br>
+Core Expertise
+Area
+Focus
+Data Analytics
+Turning raw datasets into structured, decision-ready information
+Business Intelligence
+Building self-service reporting so teams stop asking "can you pull this?"
+Data Cleaning & Wrangling
+Fixing missing values, duplicates, inconsistent formats at scale
+Exploratory Data Analysis
+Finding patterns, outliers, and relationships before modeling
+Dashboard Development
+Power BI and Python dashboards built for how executives actually read data
+Data Visualization
+Charts that answer a question in under five seconds
+KPI Analysis
+Defining and tracking the metrics that actually move the business
+Sales Analytics
+Pipeline health, conversion, forecasting, rep performance
+Marketing Analytics
+Campaign ROI, funnel analysis, channel attribution
+Customer Analytics
+Segmentation, churn, lifetime value
+Financial Analytics
+Revenue, margin, cost, and variance analysis
+Statistical Analysis
+Hypothesis testing, correlation, regression
+Reporting Automation
+Replacing manual weekly reports with automated pipelines
+<br>
+Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
+ProgrammingPython SQL R (basics)
+DatabasesPostgreSQL MySQL MongoDB SQLite
+SpreadsheetExcel (Advanced) Google Sheets
+VisualizationMatplotlib Seaborn Plotly
+BI ToolsPower BI Tableau Looker Studio
+StatisticsHypothesis Testing A/B Testing Regression Analysis
+</td>
+<td valign="top" width="50%">
+Machine LearningScikit-learn Regression Classification Clustering
+CloudAzure Google Cloud (basics)
+Version ControlGit GitHub
+AutomationPython Scripting Task Scheduling Power Automate
+APIsREST APIs FastAPI
+DevelopmentJupyter Notebook VS Code
+Operating SystemsWindows Linux (Ubuntu)
+</td>
+</tr>
+</table>
+<br>
+Technologies
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdlrhman&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="abdlrhman" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abdlrhman&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="abdlrhman" width="48%" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdlrhman&theme=tokyonight&hide_border=true" alt="abdlrhman" width="50%" />
-  </p>
 </div>
-
-
-
-## 🛠️ Technical Expertise
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://kaggle.com/YOUR_KAGGLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="YOUR_KAGGLE" height="30" width="40" /></a>
-<a href="https://instagram.com/your_instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram" height="30" width="40" /></a>
-<a href="https://medium.com/@yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yourusername" height="30" width="40" /></a>
-</p>
-
-## 💻 Tech Stack & Tools
-
-<h3 align="left">Languages and Tools:</h3>
-
-### Programming Languages<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
-  </a>
-
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/> 
-  </a>
-</p>
-
-### Data Science & ML
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_logo.svg" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
-</p>
-
-### Databases & Big Data
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
-
-### DevOps & MLOps
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-</p>
-
-### Development Tools
-<p align="left">
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
-</p>
-
-
-
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdlrhman&theme=onedark&no-frame=true&row=2&column=4" alt="abdlrhman" />
-</p>
-
-## 📌 Pinned Projects
-
-<!-- You can add your best projects here with descriptions 
-top 3 projects include new creative things solve real life problems 
-
--->
-### 🔥 Featured Work
-- **[Project Name 1]** - Brief description of your awesome ML project
-- **[Project Name 2]** - Brief description of your data analysis project
-- **[Project Name 3]** - Brief description of your deep learning project
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog posts here if you write articles -->
-<!-- BLOG-POST-LIST:END -->
-
-## 📫 Let's Connect & Collaborate
-
-I'm always interested in discussing:
-- 🤖 Machine Learning & AI projects
-- 📊 Data Science challenges
-- 💡 Innovative ideas
-- 👥 Collaborations on open source
-
+<br>
+Analytics Workflow
 <div align="center">
-  
-  ### "Data is the new oil, but insights are the new gold."
-  
-  <p>
-    <a href="https://www.linkedin.com/in/your-profile/">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:you@email.com">
-      <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-  
-  <p>⭐️ From [abdlrhman](https://github.com/abdlrhman)</p>
-  
-  <!-- Footer with last updated -->
-  <sub>👨‍💻 Last updated: February 2025 | Professional Data Scientist Profile</sub>
+Business Problem
+       ↓
+Data Collection
+       ↓
+Data Cleaning
+       ↓
+Data Validation
+       ↓
+Exploratory Analysis
+       ↓
+Feature Engineering
+       ↓
+Visualization
+       ↓
+Insights
+       ↓
+Recommendations
+       ↓
+Dashboard
+       ↓
+Business Decision
+​
+</div>
+Every project I take on follows this path. I don't start with a chart — I start with the question the business actually needs answered.
+<br>
+Featured Projects
+Sales Performance Dashboard
+Problem: Sales leadership had no real-time view of pipeline health or rep performance.
+Dataset: 3 years of CRM transaction data (50K+ records)
+Tools: Power BI · SQL · DAX
+Business Impact: Reduced weekly reporting time from 6 hours to 15 minutes; surfaced a 12% underperforming region within the first month.
+Key Insights: Identified two reps driving 40% of total pipeline value; flagged a seasonal drop-off pattern leadership hadn't noticed.
+Technologies: SQL Power BI DAXGitHub Repository · Live Dashboard
+<br>
+Customer Churn Analysis
+Problem: Subscription business losing customers with no clear understanding of why.
+Dataset: 10K customer records with usage, billing, and support history
+Tools: Python · Pandas · Scikit-learn
+Business Impact: Model identified at-risk customers with 84% accuracy, enabling a proactive retention campaign.
+Key Insights: Customers who didn't engage in the first 14 days churned at 3x the average rate.
+Technologies: Python Pandas Scikit-learn MatplotlibGitHub Repository · Notebook
+<br>
+Financial Performance Dashboard
+Problem: Finance team manually rebuilt monthly reports in Excel, prone to errors and delays.
+Dataset: 24 months of revenue, cost, and margin data
+Tools: Power BI · Excel · SQL
+Business Impact: Automated monthly close reporting, cutting report turnaround from 5 days to same-day.
+Key Insights: Isolated a recurring cost leak in one business unit worth an estimated 6-figure annual impact.
+Technologies: SQL Power BI ExcelGitHub Repository · Live Dashboard
+<br>
+Marketing Campaign Analytics
+Problem: Marketing couldn't tell which channels were actually driving conversions.
+Dataset: Multi-channel campaign data (ads, email, social)
+Tools: Python · SQL · Plotly
+Business Impact: Reallocated 20% of ad spend toward the two highest-ROI channels based on findings.
+Key Insights: One channel drove 35% of traffic but under 5% of conversions — flagged as wasted spend.
+Technologies: Python SQL PlotlyGitHub Repository · Notebook
+<br>
+HR Analytics: Attrition & Workforce Insights
+Problem: Rising attrition with no visibility into which departments or roles were most affected.
+Dataset: Employee records, tenure, performance, and exit data
+Tools: Python · Power BI
+Business Impact: Findings informed a retention program projected to reduce attrition by 8%.
+Key Insights: Attrition concentrated heavily in the 1–2 year tenure band, pointing to a career-growth gap.
+Technologies: Python Pandas Power BIGitHub Repository · Live Dashboard
+<br>
+COVID-19 Global Trends Analysis
+Problem: Understanding the trajectory and regional impact of the pandemic using public health data.
+Dataset: Johns Hopkins global COVID-19 dataset
+Tools: Python · Pandas · Matplotlib
+Business Impact: Portfolio project demonstrating time-series analysis and public data storytelling.
+Key Insights: Identified divergence in case-to-mortality ratios across regions tied to healthcare capacity.
+Technologies: Python Pandas Matplotlib SeabornGitHub Repository · Notebook
+<br>
+E-commerce Sales Analytics
+Problem: Online retailer needed to understand product and customer purchasing patterns.
+Dataset: Transaction-level e-commerce data (100K+ orders)
+Tools: SQL · Python · Power BI
+Business Impact: Recommendations informed inventory planning, reducing overstock on low-performing SKUs by 18%.
+Key Insights: 20% of products generated 65% of revenue — a clear case for inventory reprioritization.
+Technologies: SQL Python Power BIGitHub Repository · Live Dashboard
+<br>
+SQL Analytics: Business Query Portfolio
+Problem: Demonstrating advanced SQL for business reporting and analysis.
+Dataset: Relational sales and operations database
+Tools: PostgreSQL · MySQL
+Business Impact: Portfolio project showcasing window functions, CTEs, and query optimization for reporting at scale.
+Key Insights: Optimized a core reporting query from 40 seconds to under 2 seconds using indexing and CTE restructuring.
+Technologies: SQL PostgreSQL MySQLGitHub Repository
+<br>
+Python Data Cleaning Pipeline
+Problem: Raw operational data too inconsistent for reliable reporting.
+Dataset: Multi-source operational export (missing values, duplicates, mixed formats)
+Tools: Python · Pandas
+Business Impact: Reusable cleaning pipeline cut data prep time for future projects by an estimated 70%.
+Key Insights: Standardized pipeline now used as the starting template for all subsequent analysis projects.
+Technologies: Python Pandas NumPyGitHub Repository
+<br>
+Power BI Executive Dashboard
+Problem: Executive team needed a single view across sales, finance, and operations.
+Dataset: Combined data from CRM, ERP, and finance systems
+Tools: Power BI · DAX · Power Query
+Business Impact: Replaced four separate monthly reports with one live executive dashboard.
+Key Insights: Surfaced a cross-departmental bottleneck previously invisible when data lived in silos.
+Technologies: Power BI DAX Power QueryGitHub Repository · Live Dashboard
+<br>
+GitHub Statistics
+<div align="center">
+</div>
+<br>
+Currently Learning
+Area
+Focus
+Advanced SQL
+Window functions, query optimization, performance tuning
+Analytics Engineering
+Modeling data for scalable, trustworthy reporting
+Data Engineering
+Pipelines, orchestration, and data infrastructure fundamentals
+Machine Learning
+Applied ML for business forecasting and classification
+Cloud Analytics
+Azure and GCP data services
+Apache Spark
+Distributed data processing at scale
+dbt
+Analytics engineering and transformation workflows
+Snowflake
+Cloud data warehousing
+Microsoft Fabric
+Unified analytics and BI platform
+<br>
+Certifications
+
+Google Data Analytics Professional Certificate — Placeholder
+
+Microsoft Certified: Power BI Data Analyst Associate — Placeholder
+
+SQL for Data Science — Placeholder
+
+Data Analysis with Python — Placeholder
+
+Microsoft Certified: Azure Data Fundamentals — Placeholder
+<br>
+Connect
+<div align="center">
+</div>
+<br>
+<div align="center">
+Open to Data Analyst and Business Intelligence roles.
 </div>
